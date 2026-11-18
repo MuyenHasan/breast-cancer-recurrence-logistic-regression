@@ -1,6 +1,6 @@
 # Breast Cancer Recurrence Prediction with Logistic Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/breast-cancer-recurrence-logistic-regression/blob/main/breast_cancer_recurrence_logistic_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuyenHasan/breast-cancer-recurrence-logistic-regression/blob/main/breast_cancer_recurrence_logistic_regression.ipynb)
 
 Course project for *AI Expert System and Machine Learning*. A logistic regression classifier that predicts whether breast cancer recurs, covering the full workflow from data checks to overfitting analysis.
 
